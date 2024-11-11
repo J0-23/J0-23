@@ -33,6 +33,7 @@
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,mongodb,postgresql,tailwind,git,nodejs,python,javascript,html,css,mongodb,nextjs,vscode,github,figma" />
+    <img src="https://skillicons.dev/icons?i=react,mongodb,postgresql,tailwind,git,nodejs" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,html,css,mongodb,nextjs,vscode,github,figma" />
   </a>
 </p>
